@@ -1,0 +1,12 @@
+html {
+  background-color: #947575;
+}
+
+.header {
+  width: 100vw;
+  height: min-content;
+  color: white;
+}
+.header nav {
+  display: flex;
+}
